@@ -1,4 +1,4 @@
-![logo](https://github.com/ankush210103/ankush210103/blob/main/1656073033079.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A passionate Softwere Engineer from India</h3>
 
