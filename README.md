@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
-<h3 align="center">A passionate Softwere Engineer from India</h3>
+<h1 align="center">Hi, I'm Ankush Kumar</h1>
+<h3 align="center">Driven by data, inspired by the possibility of a perfect commit.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush210103&label=Profile%20views&color=0e75b6&style=flat" alt="ankush210103" /> </p>
 
-### 🌱 My Recent Creations
+###  My Recent Creations
 
 - **Intern Sight** | An AI-powered MERN platform that analyzes job descriptions using LLMs to guide skill development and track application progress.
   - [**Live Demo**](http://marvelous-nougat-fb7e17.netlify.app)
